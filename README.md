@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning English, Azure and improve my Angular skills.<br>🎯 Goals: Become a reference / start a specialization post-graduate about DevOps Engineering and Cloud Solutions / speak English.<br>🎲 Fun fact: my favorite directors are Pedro Almodóvar and Spike Lee and I like to appreciate wines.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning English, Azure, improving my Angular skills and studying MBA Software Engineering at Esalq/USP.<br>🎯 Goals: Become a reference / finish MBA post-graduate / speak English / get AWS Certified Cloud Practitioner.<br>🎲 Fun fact: my favorite directors are Pedro Almodóvar and Spike Lee and I like to appreciate wines.</p>
 
 ###
 
@@ -37,9 +37,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/rafael-peinado-da-silva/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/peinado.it/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
 
