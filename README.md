@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning English, Azure, improving my Angular skills and studying MBA Software Engineering at Esalq/USP.<br>🎯 Goals: Become a reference / finish MBA post-graduate / speak English / get AWS Certified Cloud Practitioner.<br>🎲 Fun fact: my favorite directors are Pedro Almodóvar and Spike Lee and I like to appreciate wines.</p>
+<p align="left">✨ Creating bugs since 2018.<br>📚 I'm currently learning English, Azure, AWS, improving my Angular skills and studying MBA Software Engineering at Esalq/USP.<br>🎯 Goals: Become a reference / finish MBA post-graduate / speak English / get AWS Certified Cloud Practitioner.<br>🎲 Fun fact: my favorite directors are Pedro Almodóvar and Spike Lee and I like to appreciate wines.</p>
 
 ###
 
